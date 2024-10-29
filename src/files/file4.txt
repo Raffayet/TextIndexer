@@ -1,0 +1,1 @@
+Tokenizer$should$recognize$apple$here
